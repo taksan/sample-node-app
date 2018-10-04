@@ -1,4 +1,4 @@
 {
   "title": "{{ cfg.title }}",
-  "message": "You are running version {{ pkg.version }} of the Habitat Demo App."
+  "message": "You are running version {{ pkg.version }} of the Habitat demo app."
 }
